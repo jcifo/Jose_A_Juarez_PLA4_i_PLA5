@@ -57,7 +57,7 @@ function TipoNumero(){
 	document.write("Hay " + mayoresDeCero + " numeros mayores de cero por encima de la diagonal"+"<BR>"+"<BR>")
 	document.write("Hay " + igualCero + " numeros iguales a cero por encima de la diagonal"+"<BR>"+"<BR>")
 	
-	///////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////
 	 ///var sumaDiagonal=0;
 	 // Obtener la referencia del elemento body
 	  var body = document.getElementsByTagName("body")[0];	
